@@ -1,8 +1,8 @@
 #Write a program that demonstrates the use of assignment operators with variables.
 
 # Initializing variables
-a = 10
-b = 5
+a =int(input("Enter a number, I will assing it as 'a' : "))
+b =int(input("Enter a number, I will assing it as 'b' : "))
 
 # Addition assignment (+=)
 print(f"Initial value of a: {a}")
